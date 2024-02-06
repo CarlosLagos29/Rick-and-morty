@@ -1,0 +1,18 @@
+.formulario{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background: rgb(177,34,195);
+    background: linear-gradient(0deg, rgba(177,34,195,1) 0%, rgba(45,253,62,1) 100%);
+    height: auto;
+    width: 15cm;
+    padding: 20px;
+    margin: 1.5cm;
+
+}
+
+.email{
+    display: grid;
+    align-content: center;
+    padding: 15px;;
+}
